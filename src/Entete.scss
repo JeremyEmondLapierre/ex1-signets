@@ -1,0 +1,16 @@
+header{
+    display: flex;
+    background-color: rgb(39, 38, 38);
+    align-items: center;
+    color: white;
+    font-size: larger;
+    padding: 5px;
+}
+.headerDroit{
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    p{
+        margin-right: 10px;
+    }
+}
