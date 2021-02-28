@@ -1,6 +1,7 @@
 import './Entete.scss'
 import { Avatar } from '@material-ui/core';
 
+
 export default function Entete(props){
     return(
         <header>

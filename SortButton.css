@@ -1,0 +1,10 @@
+.SortButton {
+  opacity: 0.5;
+  background-color: black;
+  padding: 10px;
+  border-radius: 50px;
+  display: flex;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+/*# sourceMappingURL=SortButton.css.map */

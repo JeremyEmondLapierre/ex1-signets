@@ -1,0 +1,19 @@
+header {
+  display: flex;
+  background-color: #272626;
+  align-items: center;
+  color: white;
+  font-size: larger;
+  padding: 5px;
+}
+
+.headerDroit {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+}
+
+.headerDroit p {
+  margin-right: 10px;
+}
+/*# sourceMappingURL=Entete.css.map */

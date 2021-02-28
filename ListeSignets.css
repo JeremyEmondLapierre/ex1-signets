@@ -1,0 +1,15 @@
+.ListeSignets {
+  margin: 40px;
+  display: flex;
+}
+
+.ListeSignets .ul-signets {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+/*# sourceMappingURL=ListeSignets.css.map */

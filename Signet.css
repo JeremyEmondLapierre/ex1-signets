@@ -1,0 +1,28 @@
+.Signet {
+  width: 280px;
+  height: 330px;
+  margin: 10px;
+  background-color: #444;
+  color: white;
+  overflow: hidden;
+}
+
+.Signet img {
+  width: 100%;
+  height: 60%;
+}
+
+.Signet .info {
+  padding: 20px;
+  font-weight: normal;
+}
+
+.Signet .info .titre {
+  padding-bottom: 10px;
+}
+
+.Signet .BoutonHautGauche {
+  position: absolute;
+  float: left;
+}
+/*# sourceMappingURL=Signet.css.map */

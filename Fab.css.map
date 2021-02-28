@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAA;EACN,QAAQ,EAAE,KAAK;EACd,MAAM,EAAE,IAAI;EACZ,KAAK,EAAE,IAAI;CACf",
+    "sources": [
+        "src/fab.scss"
+    ],
+    "names": [],
+    "file": "fab.css"
+}
