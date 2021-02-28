@@ -1,3 +1,3 @@
-# Titre du site Web ou application
+# Lien vers le GitHub Pages
 
-Court texte présentant votre site Web/application.
+https://jeremyemondlapierre.github.io/ex1-signets/
